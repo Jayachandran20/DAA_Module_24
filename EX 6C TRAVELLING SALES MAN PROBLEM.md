@@ -20,8 +20,8 @@ To Solve Travelling Sales man Problem for the following graph.
 ```
 /*
 To implement the program for TSP.
-Developed by: JEEVAGOWTHAM S
-Register Number:  212222230053
+Developed by: M JAYACHANDRAN
+Register Number:  212222240038
 */
 ```
 ```
