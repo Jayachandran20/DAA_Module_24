@@ -16,8 +16,8 @@ To write a python program using brute force method of searching for the given su
 ```
 ## Program:
 ```
-Developed by: JEEVAGOWTHAM S
-Register Number:  212222230053
+Developed by: M JAYACHANDRAN
+Register Number:  212222240038
 
 def match(string,sub):
     l = len(string)
